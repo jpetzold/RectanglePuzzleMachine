@@ -7,5 +7,5 @@
 
 # Benchmark Results
 
-- On a laptop with Windows 10/ Java 23  and AMD Ryzen PRO 5850U and __112__ number of objects, it took __~261s__
-- On an old Intel i5-6500 Desktop processor running linux and _112__ number of objects, it took __~530s__
+- On a laptop with Windows 10/ Java 23  and AMD Ryzen PRO 5850U and __112__ experiments, it took __~261s__
+- On an old Intel i5-6500 Desktop processor running linux and __112__ experiments, it took __~530s__
