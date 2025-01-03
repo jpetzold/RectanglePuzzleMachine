@@ -1,5 +1,5 @@
 # Rectangle Puzzle Machine
-  - set the `numberOfObjects` in [ThreadeApp](./Threadedapp.java) to desired number of experiments.
+  - set the `numberOfObjects` in [ThreadeApp](./ThreadedApp.java) to desired number of experiments.
   - Run ThreadedApp.
   - The proceddings of the first experiment will be visualized.
   - All other status will be shown in the terminal.
