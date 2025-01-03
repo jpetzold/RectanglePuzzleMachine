@@ -7,4 +7,4 @@
 
 # Benchmark Results
 
-- On a laptop with Windows 10  and AMD Ryzen PRO 5850U and __112__ number of objects, it took __~261s__
+- On a laptop with Windows 10/ Java 23  and AMD Ryzen PRO 5850U and __112__ number of objects, it took __~261s__
