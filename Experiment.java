@@ -84,7 +84,7 @@ if(visualize) {
 
         //if improvement then
         if (scores[0] <= last_score) {
-            rectangles = clonedRectangles; //todo: assumed that the movement is more often worse than better, we should keep the original tucked away and manipulate rectangles directly, whenever a solution is discarded we can reset the tucked away to origin
+            rectangles = clonedRectangles; //todo:  increase performance; assumed that the movement is more often worse than better, we should keep the original tucked away and manipulate rectangles directly, whenever a solution is discarded we can reset the tucked away to origin
             last_score = scores[0];
             lowestY = scores[1];
             lastOverlap = scores[3];
