@@ -6,7 +6,9 @@ Long story short, our solution back then was really bad. Non-usuable bad.
 This was vexing me every now and then under the shower while reminiscing about the past.
 So, since my kids are now into programming as well, on a rainy Sunday afternoon, I gave it another shot. Simplified. With Java.
 Results look something like this:
-![example picture](./images/example.png)
+
+
+![example picture](./example.png)
 
 
 
