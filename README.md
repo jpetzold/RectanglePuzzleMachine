@@ -23,6 +23,7 @@ Results look something like this:
 
 - On an M4 Mac Book Pro with 14 vCores and __112__ experiments, it took __~70s__
 - On an AMD 7800X3D Desktop processor running windows 11 and __112__ experiments, it took __~103s__
+- On an AMD Ryzen AI 9 HX370 processor running windows 11 and __112__ experiments, it took __~148s__
 - On a M1 Mac Book Pro with 8 vcores and __112__ experiments, it took __~200s__
 - On a laptop with Windows 10/ Java 23  and AMD Ryzen PRO 5850U and __112__ experiments, it took __~261s__
 - On an 11th Gen Intel(R) Core(TM) i5-1145G7 running Windows 11 Pro @ 2.60GHz 1.50 GHz and __112__ experiments, it took __~476s__
